@@ -9,3 +9,5 @@ target
 .lein-deps-sum
 .lein-plugins
 .lein-repl-history
+*.iml
+.idea/
